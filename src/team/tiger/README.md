@@ -109,15 +109,15 @@ AWS, GCP
 ```
 :::
 
-::: details Seok <Badge type="tip" text="web developer, Backend Engineer" vertical="top" />
-- Communicate with consideration for each other!
-- web developer, Back-end
+::: details Jerry <Badge type="tip" text="iOS" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+- iOS developer, Back-end, Data engineer
+- Always positive!
+- Passionate about learning new skills in data engineering, k8s, Docker, AWS, and more.
+- Stop being a chicken to be used to acquiring new skills in IT world!!
 
-![Seok](/images/tiger-slamdunk/tiger-slamdunk.001.jpeg)
+![Jerry](/images/tiger-slamdunk/chill-sketch.jpg)
 ```
-MySQL, Oracle, 
-Java, Spring Framework, Spring Boot
-jQuery, json
+Swift, Python
 
 ```
 :::
