@@ -4,8 +4,11 @@
 <img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- PRD - https://blog.nunininu.shop
-- STG - https://blog.nunininu.web.app
+- PRD - https://blog.nunininu.shop, https://nunininu.github.io
+- STG - https://blog-82eea.web.app
+- DEV - ?
+- LOCAL - http://localhost:8000
+
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
@@ -45,12 +48,16 @@ $ pnpm docs:dev
 $ git add .
 $ pnpm docs:build
 $ firebase login
+$ firebase deploy
 ```
 
 2. PRD
-- github pages -> docs
-- sh prd-build.sh -> push -> pr merge -> deploy - end
-- https://oss.cashmallow.com
+```bash
+$ github pages -> docs
+$ pnpm docs:build
+$ git add .;git commit -a;git push
+$ https://team.sunsin.shop
+```
 
 <img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
 <img src="https://oss-cashmallow.github.io/images/hero.png" alt="cashmallow" style="width:200px;"/>
