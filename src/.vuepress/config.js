@@ -63,8 +63,8 @@ export default defineUserConfig({
       },
     },
 
-    logo: "/images/tiger-stern.svg",
-    logoDark: "/images/tiger-cute.svg",
+    logo: "/images/logo.jpg",
+    logoDark: "/images/logoDark.webp",
 
     repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
     repoLabel: "discussions",
