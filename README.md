@@ -36,6 +36,7 @@ $ pnpm docs:dev
 1. STG
 - [x] 배포전 작업 파일은 모두 커밋!
 - [install firebase](https://v2.vuepress.vuejs.org/guide/deployment.html#google-firebase)
+$ npm install firebase
 
 ``` bash
 $ sh deploy-stg.sh
