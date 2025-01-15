@@ -63,8 +63,8 @@ export default defineUserConfig({
       },
     },
 
-    logo: "/images/logo.webp",
-    logoDark: "/images/logoDark.jpeg",
+    logo: "/images/logo.jpg",
+    logoDark: "/images/logoDark.webp",
 
     repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
     repoLabel: "discussions",
