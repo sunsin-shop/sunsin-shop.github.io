@@ -32,9 +32,12 @@
 - 또는 [인재 영입](team/recruit/)
 ![](https://user-images.githubusercontent.com/120996497/209473626-12d63987-9357-4f0a-94a9-35392d4f8869.png)
 :::
-::: details <Badge type="warning" text="backend" vertical="top" /> <Badge type="tip" text="frontend" vertical="top" /> It's you
-- And you and the four heroes who will be joining us soon!
-![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
+::: details Nijin <Badge type="warning" text="student" vertical="top" />
+-  im 희진 ..
+-  im learning about data a lot 
+-  help me plz..plz..plz..
+-  감사합니당  
+![Nijin](/images/tiger-slamdunk/me.png)
 :::
 
 ::: details Ock <Badge type="tip" text="iOS" vertical="top" />
