@@ -1,6 +1,6 @@
 {
   "name": "oss-cashmallow.github.io",
-  "version": "0.9.6",
+  "version": "25.1.15",
   "description": "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
     "vuepress": "2.0.0-beta.59"
   },
   "dependencies": {
-    "firebase": "^9.15.0"
+    "firebase": "^9.23.0"
   }
 }
