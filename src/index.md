@@ -1,13 +1,13 @@
 ---
 home: true
 
-heroImage: /images/hero.png
-heroImageDark: /images/hero.png
+heroImage: /images/hero.jfif
+heroImageDark: /images/hero.jfif
 
-heroText: 'tech blog@cashmallow'
-title: tech blog
+heroText: 'tech blog@nunininu.shop'
+title: team.sunsin
 
-tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
+tagline: Why not? 
 
 actions:
   - text: tech SHARE
