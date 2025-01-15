@@ -64,7 +64,7 @@ Mysql
 ```
 :::
 
-::: details Dew <Badge type="warning" text="backend" vertical="top" />
+::: details <stundrg> 강현룡 <Badge type="warning" text="backend" vertical="top" />
 - 노는게 제일 좋아
 - 전에 다니던 보안 회사에서 QA 일을 했습니다. 테스트나 이슈 재현 같은 일들 주로 해왔습니다. ^^
 - PC 세팅 , 멀티부팅 같은 세팅을 빠르게 할 수 있습니다. 필요하면 말만 하십셔 ^^7
