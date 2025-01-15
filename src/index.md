@@ -6,7 +6,7 @@ heroImageDark: /images/hero.jfif
 
 
 heroText: 'team blog@nunininu.shop'
-title: team blog
+title: team.nunininu
 tagline: Why not? 
 
 actions:
