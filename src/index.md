@@ -2,7 +2,7 @@
 home: true
 
 heroImage: /images/hero.jfif
-heroImageDark: /images/heroDark.tmp
+heroImageDark: /images/heroDark.png
 
 
 heroText: 'team blog@nunininu.shop'
