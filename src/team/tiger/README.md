@@ -119,6 +119,21 @@ Java, Spring Framework, Spring Boot
 jQuery, json
 
 ```
+
+:::
+
+
+::: details Jacob <Badge type="tip" text="LG U+4기 " vertical="top" />
+- 아무것도 모르고 헤매고 있을 때 도와주셔서 감사해요
+- 더 준비하고 공부해서 나아지는 모습 보여드릴게요
+
+![Jacob](/images/tiger-slamdunk/woohoo.webp)
+```
+MySQL, Oracle,
+Java, Python, Sql
+jQuery, json
+
+```
 :::
 
 ### LGTM
