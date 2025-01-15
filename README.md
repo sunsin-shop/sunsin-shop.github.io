@@ -4,8 +4,8 @@
 <img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- PRD - https://oss.cashmallow.com / oss-cashmallow.github.io
-- STG - https://oss-cashmallow.web.app
+- PRD - https://blog.nunininu.shop
+- STG - https://blog.nunininu.web.app
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
@@ -14,6 +14,10 @@
 1. git clone https://github.com/oss-cashmallow/oss-cashmallow.github.io.git
 2. edit with [vscode](https://code.visualstudio.com/)
 3. install
+
+https://github.com/nvm-sh/nvm
+https://pnpm.io.ko
+
 ``` bash
 brew install node
 brew install pnpm
@@ -22,8 +26,14 @@ brew install pnpm
 - connecting to localhost 8080
 - node.js install if you have get error 'ELIFECYCLE Command failed'
 ```
-pnpm install
-pnpm docs:dev
+$ nvm install --lts
+$ nvm ls
+$ nvm use v22.13.0
+$ node -v
+v22.13.0
+$ pnpm install
+$ pnpm docs:dev
+
 ```
 
 ### build & deploy
@@ -35,7 +45,6 @@ pnpm docs:dev
 $ git add .
 $ pnpm docs:build
 $ firebase login
-
 ```
 
 2. PRD
