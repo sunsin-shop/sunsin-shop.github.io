@@ -56,7 +56,7 @@ $ firebase deploy
 $ github pages -> docs
 $ pnpm docs:build
 $ git add .;git commit -a;git push
-$ https://team.sunsin.shop
+$ https://nunininu.shop
 ```
 
 <img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
