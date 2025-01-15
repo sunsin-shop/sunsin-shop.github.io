@@ -4,10 +4,10 @@ home: true
 heroImage: /images/hero.jfif
 heroImageDark: /images/hero.jfif
 
+
 heroText: 'team blog@nunininu.shop'
 title: team blog
-
-tagline: abc
+tagline: Why not? 
 
 actions:
   - text: tech SHARE

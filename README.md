@@ -1,7 +1,7 @@
-# tech blog@cashmallow
+# Team blog@nunininu.shop
 - Cashmallow development team's technology blog about wanting to contribute to the open source ecosystem
   
-<img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
+<img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="team sunsin" style="width:200px;"/>
 
 ### Connecting
 - PRD - https://blog.nunininu.shop, https://nunininu.github.io
@@ -9,12 +9,11 @@
 - DEV - ?
 - LOCAL - http://localhost:8000
 
-
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
 
 0. created based on [vuepress](https://v2.vuepress.vuejs.org/)
-1. git clone https://github.com/oss-cashmallow/oss-cashmallow.github.io.git
+1. git clone git@github.com:sunsin-shop/sunsin.github.io.git
 2. edit with [vscode](https://code.visualstudio.com/)
 3. install
 
@@ -22,12 +21,12 @@ https://github.com/nvm-sh/nvm
 https://pnpm.io.ko
 
 ``` bash
-brew install node
-brew install pnpm
+https://github.com/nvm-sh/nvm
+https://pnpm.io.ko
 ```
 4. run - development environment [install pnpm](https://pnpm.io/installation)
 - connecting to localhost 8080
-- node.js install if you have get error 'ELIFECYCLE Command failed'
+- #node.js install if you have get error 'ELIFECYCLE Command failed'
 ```
 $ nvm install --lts
 $ nvm ls
@@ -36,7 +35,6 @@ $ node -v
 v22.13.0
 $ pnpm install
 $ pnpm docs:dev
-
 ```
 
 ### build & deploy
