@@ -1,7 +1,7 @@
 # team blog@sunsin.shop 
-- sunsin team's technology blog about the spirit of sunsin
+- Our team's technology blog inherits the spirit of Admiral Yi Sun-sin of Joseon
   
-<img src="https://www.google.com/imgres?q=%EB%A7%9D%EA%B7%B8%EB%9F%AC%EC%A7%84%20%EA%B3%B0&imgurl=https%3A%2F%2Fcdn.litt.ly%2Fimages%2FU0UQOgi7NRuOXgn6LHSikIDTy1TWh688%3Fs%3D1200x630%26m%3Dinside&imgrefurl=https%3A%2F%2Flitt.ly%2Fmangomee&docid=3SXBmsV_XpCGUM&tbnid=5xWtUKo-EgbzfM&vet=12ahUKEwjZgbKQy_aKAxX12jQHHesiCg0QM3oECBUQAA..i&w=630&h=630&hcb=2&ved=2ahUKEwjZgbKQy_aKAxX12jQHHesiCg0QM3oECBUQAA" alt="mang_cute" style="width:200px;"/>
+<img src="https://i.namu.wiki/i/TNsR9Ds4OAhWOs6QIc9QopgXwcTPwlKiuehfZRXPAiv8Ea6BMsLJmVzcIGFG4HZoTSg7wvDStHH6ZMAxxbjFSd5rtvtA37UXHN2N0ENANiXxROfCOEMokkht_0WSlOhlVIMpQnLQlQu5BpxO3_-vKA.webp" alt="mang_cute" style="width:200px;"/>
 
 ### Connecting
 - PRD - https://team.sunsin.shop, https://heejin131.github.io
@@ -37,13 +37,13 @@ $ pnpm docs:dev
 ### build & deploy
 1. STG
 - [x] 배포전 작업 파일은 모두 커밋!
-- [install firebase](https://v2.vuepress.vuejs.org/guide/deployment.html#google-firebase)
-$ npm install firebase
+- [install firebase](https://v2.vuepress.vuejs.org/guide/deployment.html#google-firebase)e
 
 ``` bash
-git add .
-
-
+$ git add .
+$ pnpm docs:build
+$ firebase login
+$ firebase deploy
 ```
 
 2. PRD
