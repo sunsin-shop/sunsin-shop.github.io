@@ -50,18 +50,17 @@ SwiftUI
 ```
 :::
 
-::: details Cho6019(조민규) <Badge type="tip" text="Data" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
-- Wanna be Data Engineer
-- 데이터베이스 구조, 파이프라인 등을 공부하고 싶습니다.
-- 코드 원리를 이해하고 싶어합니다.
-- 자주 좁니다. 한대쳐서 깨워주세요.
+::: details JK <Badge type="warning" text="backend" vertical="top" />
+- Backend Developer
+- 자료구조와 데이터베이스를 좋아합니다.
+- 최적화에 진심입니다.
+- 열심히 하겠습네다. 잘 부탁드립네다.
 
-![Where is your image?!](/images/cho-profile.png)
+![JK](/images/darth-vader.png)
 ```
 Java
-SQL(Oracle, Mysql)
-AWS
-Node.js
+Spring Boot
+Mysql
 ```
 :::
 
