@@ -1,7 +1,7 @@
 {
-  "name": "oss-cashmallow.github.io",
-  "version": "0.9.6",
-  "description": "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+  "name": "team.sunsin.shop",
+  "version": "25.1.15",
+  "description": "We are a professional team that works affectionately, and above all, grows with our colleagues.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
