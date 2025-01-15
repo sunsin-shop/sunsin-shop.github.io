@@ -73,7 +73,6 @@ Mysql
 ![Dew](/images/Devil9.png)
 ```
 아무런 능력 없음
-
 ```
 :::
 
