@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       firebase:
-        specifier: ^9.15.0
+        specifier: ^9.23.0
         version: 9.23.0
     devDependencies:
       '@vuepress/client':
