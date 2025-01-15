@@ -121,7 +121,7 @@ export default defineUserConfig({
     }),
     backToTopPlugin(),
     googleAnalyticsPlugin({
-      id: "G-SZCLCFG0X3",
+      id: "G-4NMC1K5VGF",
       debug: true,
     }),
   ],
