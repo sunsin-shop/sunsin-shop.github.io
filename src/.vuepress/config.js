@@ -14,10 +14,10 @@ export default defineUserConfig({
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'tech-blog:cashmallow' }],
-    ['meta', { property: 'og:description', content: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem" }],
-    ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/120996497/209457891-2c91f7fe-514d-4431-bfcb-7f6ee72ed8ee.png' }],
-    ['meta', { property: 'og:url', content: 'https://oss.cashmallow.com' }],
+    ['meta', { property: 'og:title', content: 'team-blog:sunsin.shop' }],
+    ['meta', { property: 'og:description', content: "We are a professional team that works affectionately, and above all, grows with our colleagues." }],
+    ['meta', { property: 'og:image', content: 'https://sunsin-shop.github.io/repository-open-graph-sunsin.png' }],
+    ['meta', { property: 'og:url', content: 'https://sunsin-shop.github.io' }],
   ],
   
   locales: {
@@ -66,7 +66,7 @@ export default defineUserConfig({
     logo: "/images/ninja-turtles.png",
     logoDark: "/images/hero.webp",
 
-    repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
+    repo: "https://github.com/sunsin-shop/sunsin-shop.github.io/discussions",
     repoLabel: "discussions",
 
     contributors: false,
@@ -81,7 +81,7 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
+      { text: "101", link: "https://github.com/ppabam/101/issues" },
       { text: "recruit", link: "/team/recruit/" },
     ],
 
