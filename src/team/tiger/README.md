@@ -93,18 +93,14 @@ LiDAR - Light Detection And Ranging
 ```
 :::
 
-::: details JD <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
-- Impossible is nothing!
-- Super positive!
-- Backend + Front(Android, iOS, Flutter) developer
+::: details lucas <Badge type="tip" text="노량진" vertical="top" /> 
+- Data analyst(I want to become one, but I don't know anything yet).
+- Please give me a lot of help.
+- If you help me, I'll be blessed!
 
-![JD](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
+![lucas](/images/tiger-slamdunk/003.png)
 ```
-Flutter, Nest.JS, TypeScript, Android, iOS
-Spring boot
-MySQL, MongoDB, PostgreSQL
-Docker
-AWS, GCP
+Lotto Number : 3 13 27 29 33 36 + 8
 ```
 :::
 
