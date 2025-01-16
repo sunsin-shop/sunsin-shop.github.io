@@ -139,7 +139,7 @@ Python
 - 말하는 감자입니다.
 - 열심히 배워보갔습니다...
 
-![jiwon](/images/park.jpeg)
+![jiwon](/images/park.png)
 ```
 MySQL, Oracle
 python
