@@ -86,7 +86,7 @@ Node.js
 - 데이터 분석과 시각화를 잘 배워서  프로젝트까지 잘 완성하고 싶습니다.
 - 매번 제가 질문할 때마다 옆에서 잘 알려주시는 분들 감사합니다ㅎㅎ
 
-![Alex](/images/tiger-slamdunk/keyping.png)
+![Alex](/images/tiger-slamdunk/keyping_600.png)
 ```
 Python
 ```
