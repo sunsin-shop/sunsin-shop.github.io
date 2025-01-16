@@ -106,10 +106,15 @@ Python
 ```
 :::
 
+### lucas
 ::: details lucas <Badge type="tip" text="노량진" vertical="top" /> 
 - Data analyst(I want to become one, but I don't know anything yet).
 - Please give me a lot of help.
 - If you help me, I'll be blessed!
+- [Instargram   🅾  ](https://www.instagram.com/b.h.gyun/profilecard/?igsh=MWVsbWJ2ejYxdmRzbw==)
+- [Github 💻](https://github.com/lucas-hub12)
+- [Blog 🖊️📖✏📚](https://lucas-hub12.github.io/)
+- [Pypi 🙊🙈🙉](https://pypi.org/project/lucas-check-os-ver/)
 
 ![lucas.2](/images/003.png)
 ```
