@@ -105,9 +105,11 @@ Lotto Number : 3 13 27 29 33 36 + 8
 
 ### Jerry
 ::: details Jerry <Badge type="tip" text="iOS" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+---
 - [Github](https://github.com/vhzkclq0705)
 - [Tech blog](https://velog.io/@o_joon_/posts)
 - [Instagram](https://www.instagram.com/o_jooon_/)
+---
 - iOS developer, Back-end, Data engineer
 - Always positive!
 - Passionate about learning new skills in data engineering, k8s, Docker, AWS, and more.
