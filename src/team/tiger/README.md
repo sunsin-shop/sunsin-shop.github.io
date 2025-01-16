@@ -52,6 +52,7 @@ R
 ```
 :::
 
+### Cho6019
 ::: details Cho6019(조민규) <Badge type="tip" text="Data" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
 - Wanna be Data Engineer
 - 데이터베이스 구조, 파이프라인 등을 공부하고 싶습니다.
@@ -66,6 +67,7 @@ Java
 SQL(Oracle, Mysql)
 AWS
 Node.js
+[Github Profile](https://github.com/cho6019)
 ```
 :::
 
