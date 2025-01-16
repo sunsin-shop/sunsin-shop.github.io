@@ -1,11 +1,11 @@
 # team TIGIER
 ### 은혜 갚는 호랑이
 ::: details 어흥! 안 잡아~ 먹지!
-- 캐시멜로 개발팀은 서로서로가 돕고 !
-- 캐시멜로 개발팀은 사업과시장 돕고 !
-- 캐시멜로 개발팀은 오픈소스를 돕고 !
+- 개발팀은 서로서로가 돕고 !
+- 개발팀은 사업과시장 돕고 !
+- 개발팀은 오픈소스를 돕고 !
 
-- 은혜갚는 호랑이들 - team TIGER 입니다.
+- 은혜갚는 양진이들 - team SunSin 입니다.
 ![cute tiger](/images/tiger-cute.svg)
 :::
 
@@ -40,86 +40,132 @@
 ![Nijin](/images/tiger-slamdunk/me2.png)
 :::
 
-::: details Ock <Badge type="tip" text="iOS" vertical="top" />
-- iOS Developer
-- UI/UX에 진심입니다.
-- 사용자를 생각하며 개발합니다.
-- 열심히 잘 하겠습니다.
+::: details nunininu(조성근) <Badge type="tip" text="Data" vertical="top" />
+- 열심히 배우고 있습니다. 
+- 통계분석 경력이 있습니다.
+- 코딩을 잘하고 싶습니다.
+- 데이터 분석가로 전직하고 싶습니다.
 
-![Ock](/images/tiger-slamdunk/tiger-slamdunk.005.jpeg)
+![Ock](/images/tiger-slamdunk/man-itself-black_resized.png)
 ```
-Swift
-SwiftUI
+Excel
+SPSS
+R
 ```
 :::
 
-::: details JK <Badge type="warning" text="backend" vertical="top" />
-- Backend Developer
-- 자료구조와 데이터베이스를 좋아합니다.
-- 최적화에 진심입니다.
-- 열심히 하겠습네다. 잘 부탁드립네다.
+::: details Cho6019(조민규) <Badge type="tip" text="Data" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+- Wanna be Data Engineer
+- 데이터베이스 구조, 파이프라인 등을 공부하고 싶습니다.
+- 코드 원리를 이해하고 싶어합니다.
+- 자주 좁니다. 한대쳐서 깨워주세요.
 
-![JK](/images/darth-vader.png)
+<img src='/images/cho-profile.png' alt="Where is your image?!" width='684' style="height: auto;" />
+
+<!-- ![Where is your image?!](/images/cho-profile.png) -->
 ```
 Java
-Spring Boot
-Mysql
+SQL(Oracle, Mysql)
+AWS
+Node.js
 ```
 :::
 
-::: details Dew <Badge type="warning" text="backend" vertical="top" />
-- Backend Developer
-- Kubernetes Engineer
+::: details Stundrg(강현룡) <Badge type="warning" text="Data" vertical="top" /><Badge type= "tip" text = "Qa" vertical = "top"/> 
+- 노는게 제일 좋아
+- 전에 다니던 보안 회사에서 QA 직무을 했습니다. 테스트나 이슈 재현 같은 일들 주로 해왔습니다. ^^
+- PC 세팅, 멀티부팅 같은 세팅을 빠르게 할 수 있습니다. 필요하면 말만 하십셔 ^^7
 - 많은 관심과 격려 부탁드립니다~~
 
-![Dew](/images/tiger-slamdunk/tiger-slamdunk.007.jpeg)
+![stundrg](/images/Devil9.png)
 ```
-Java & Spring
-Oracle, Mysql
-Kubernetes
+아무런 능력 없음
 ```
 :::
 
 ::: details Alex <Badge type="warning" text="backend" vertical="top" />
-- M.S. in Computer Science
-- Backend Engineer
-- 좋은 백엔드 엔지니어가 되기 위해서 공부 중입니다. 많이 물어보고 많이 가르쳐주세요.
+- 스포츠 즐겨보고 그중에서도 야구와 농구를 좋아합니다.
+- 데이터 분석과 시각화를 잘 배워서  프로젝트까지 잘 완성하고 싶습니다.
+- 매번 제가 질문할 때마다 옆에서 잘 알려주시는 분들 감사합니다ㅎㅎ
 
-![Alex](/images/tiger-slamdunk/tiger-slamdunk.004.jpeg)
+![Alex](/images/tiger-slamdunk/keyping_600.png)
 ```
-JAVA
-C
-Spring boot
-Kubernetes
-OpenGL
-LiDAR - Light Detection And Ranging
+Python
 ```
 :::
 
-::: details JD <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
-- Impossible is nothing!
-- Super positive!
-- Backend + Front(Android, iOS, Flutter) developer
+::: details lucas <Badge type="tip" text="노량진" vertical="top" /> 
+- Data analyst(I want to become one, but I don't know anything yet).
+- Please give me a lot of help.
+- If you help me, I'll be blessed!
 
-![JD](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
+![lucas.2](/images/tiger-slamdunk/003.png)
 ```
-Flutter, Nest.JS, TypeScript, Android, iOS
-Spring boot
-MySQL, MongoDB, PostgreSQL
-Docker
-AWS, GCP
+Lotto Number : 3 13 27 29 33 36 + 8
 ```
 :::
 
-::: details Seok <Badge type="tip" text="web developer, Backend Engineer" vertical="top" />
-- Communicate with consideration for each other!
-- web developer, Back-end
+::: details Jerry <Badge type="tip" text="iOS" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+- iOS developer, Back-end, Data engineer
+- Always positive!
+- Passionate about learning new skills in data engineering, k8s, Docker, AWS, and more.
+- Stop being a chicken to be used to acquiring new skills in IT world!!
 
-![Seok](/images/tiger-slamdunk/tiger-slamdunk.001.jpeg)
+![Jerry](/images/tiger-slamdunk/LULU.png)
 ```
-MySQL, Oracle, 
-Java, Spring Framework, Spring Boot
-jQuery, json
+Swift, Python
+
+```
+:::
+
+::: details Jacob <Badge type="tip" text="LG U+4기 " vertical="top" /> <Badge type="warning" text="NEWBIE" vertical="top" /> <Badge type="tip" text="찾아가는중" vertical="top" /> <Badge type="tip" text="Data Engineer?" vertical="top" />
+- 최근 경력이라면.. 용산 미군기지 안에 있는  GNC 보충제 샵에서 매장운영 및 발주 등 전반적인 일을 했었습니다.
+- 취미는 게임입니다 총 쏘는 게임 좋아합니다 Call of Duty 멀티 주로 하고 있어요.
+- 아직 직무나 분야를 정하지는 못했어요 매일 새로워서 배우다 보면 더 집중적으로 배우고 싶은게 생길거라 생각하고 있습니다.
+- 아무것도 모르고 헤매고 있을 때 도와주셔서 감사해요!!
+- 더 준비하고 공부해서 나아지는 모습 보여드릴게요.
+- 부족하지만 따라가려고 노력하고 있습니다 잘 부탁드립니다!
+
+![Jacob](/images/tiger-slamdunk/woohoo.png)
+```
+MySQL
+Python
+
+```
+:::
+
+::: details jiwon <Badge type="warning" text="Data" vertical="top" />
+- data science 전공
+- 말하는 감자입니다.
+- 열심히 배워보갔습니다...
+
+![jiwon](/images/park.png)
+```
+MySQL, Oracle
+python
+```
+:::
+
+::: details Tom <Badge type="warning" text="Data" vertical="top" />
+- 홀로 성장하는 시대는 끝났다
+
+![TomSawyer](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14153d09-f6c7-48b5-bd93-5f4fad4babb8/dg790z4-393a24a2-078f-4f02-a5d2-f3c7ae6484bc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0MTUzZDA5LWY2YzctNDhiNS1iZDkzLTVmNGZhZDRiYWJiOFwvZGc3OTB6NC0zOTNhMjRhMi0wNzhmLTRmMDItYTVkMi1mM2M3YWU2NDg0YmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H1JI5rL71RBxZ09whWFR76dpYCudCvjs5PdnXkdKbZw)
+```
+ ⠀⠀⠀⠀⠀⠀⣴⠶⢦⣤⠶⠶⣄
+⠀⠀⠀⠀⠀⠀⣇⠀⠀⠁⠀⢀⣿
+⠀⠀⠀⠀⠀⠀⠙⢧⣄⠀⣠⠞⠁
+⠀⠀⠀⠀⠀⣀⡀⠀⠉⠛⠃⣠⣄⡀
+⠀⠀⠀⠀⡞⠉⠙⢳⣄⢀⡾⠁⠈⣿
+⠀⠀⠀⠀⢻⡄⠀⠀⠙⢿⡇⠀⢰⠇
+⠀⠀⠀⠀⠀⠙⣦⡀⠀⠀⠹⣦⡟
+⠀⠀⠀⠀⠀⠀⠈⢳⣄⠀⠀⠈⠻⣄
+⠀⠀⠀⠀⠀⠀⡞⠋⠛⢧⡀⠀⠀⠘⢷⡀
+⠀⠀⠀⢠⡴⠾⣧⡀⠀⠀⠹⣦⠀⠀⠈⢿⡄
+⠀⠀⣀⣿⠀⠀⠈⠻⣄⠀⠀⠀⠀⠀⠀⠈⣷
+⢠⡟⠉⠛⢷⣄⠀⠀⠈⠀⠀⠀⠀⠀⠀⣰⠏
+⠀⢷⡀⠀⠀⠉⠃⠀⠀⠀⠀⠀⠀⠀⣴⠏
+⠀⠈⠻⣦⡀⠀⠀⠀⠀⠀⠀⢀⣠⠞⠁
+⠀⠀⠀⠈⠙⠶⣤⣤⣤⡤⠶⠋⠁
 
 ```
 :::
