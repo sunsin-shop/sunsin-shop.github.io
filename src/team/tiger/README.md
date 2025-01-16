@@ -121,6 +121,17 @@ jQuery, json
 ```
 :::
 
+::: details jiwon <Badge type="warning" text="Data" vertical="top" />
+- data science 전공
+- 말하는 감자입니다.
+- 열심히 배워보갔습니다...
+
+![jiwon](/images/park.jpeg)
+```
+MySQL, Oracle
+python
+```
+:::
 ### LGTM
 - 함께 떠나요! 하와이(니가 ...)
 
