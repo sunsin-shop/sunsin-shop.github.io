@@ -37,7 +37,7 @@
 -  im learning about data a lot 
 -  help me plz..plz..plz..
 -  감사합니당  
-![Nijin](/images/tiger-slamdunk/me.png)
+![Nijin](/images/tiger-slamdunk/me2.png)
 :::
 
 ::: details Ock <Badge type="tip" text="iOS" vertical="top" />
