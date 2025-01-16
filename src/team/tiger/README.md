@@ -126,7 +126,7 @@ Swift, Python
 - 더 준비하고 공부해서 나아지는 모습 보여드릴게요.
 - 부족하지만 따라가려고 노력하고 있습니다 잘 부탁드립니다!
 
-![Jacob](/images/tiger-slamdunk/woohoo.webp)
+![Jacob](/images/tiger-slamdunk/woohoo.png)
 ```
 MySQL
 Python
