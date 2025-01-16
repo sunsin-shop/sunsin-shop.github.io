@@ -111,7 +111,7 @@ Lotto Number : 3 13 27 29 33 36 + 8
 - Passionate about learning new skills in data engineering, k8s, Docker, AWS, and more.
 - Stop being a chicken to be used to acquiring new skills in IT world!!
 
-![Jerry](/images/tiger-slamdunk/chill-sketch.jpg)
+![Jerry](/images/tiger-slamdunk/LULU.png)
 ```
 Swift, Python
 
