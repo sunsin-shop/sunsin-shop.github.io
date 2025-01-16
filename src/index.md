@@ -4,17 +4,17 @@ home: true
 heroImage: /images/hero.png
 heroImageDark: /images/heroD.png
 
-heroText: 'team blog@sunsin.shop'
-title: team sunsin
+heroText: 'HEEJIN blog@sunsin.shop'
+title: team SUNSIN 
 
-tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
+tagline: SUNSIN team is the best data engineering team in Noryang
 
 actions:
   - text: tech SHARE
     link: /tech/share
     type: primary
   
-  - text: team TIGER
+  - text: team SUNSIN
     link: /team/tiger
     type: secondary
 
@@ -23,12 +23,12 @@ actions:
     type: secondary
 
 features:
-- title: team TIGER
-  details: Cashmallow Development Team. A person-centered devops-friendly software developer organization that makes and operates more than customers want one step faster than the market.
-- title: cashmallow
-  details: troublesome currency exchange that had to do before departue. start a reliable trip by using Cashmallow exchange service.
-- title: mallowLINK
-  details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
+- title: team SUNSIN
+  details: A team composed of Data Engineers. We study hard with Tom.
+- title: HEEJIN
+  details: IM the master of this blog. im trying to make this blog famous.
+- title: Mang-gom
+  details: MAng-gom is the character of this main page. there is no special reason to pick it. The only thing I chose this charater is just cute. 
 
-footer: THE TIGER@cashmallow who has returned the favor. 2016.
+footer: THE SUNSIN@sunsin who has returned the favor. 2025.
 ---
