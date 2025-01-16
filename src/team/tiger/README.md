@@ -1,11 +1,11 @@
 # team TIGIER
 ### 은혜 갚는 호랑이
 ::: details 어흥! 안 잡아~ 먹지!
-- 캐시멜로 개발팀은 서로서로가 돕고 !
-- 캐시멜로 개발팀은 사업과시장 돕고 !
-- 캐시멜로 개발팀은 오픈소스를 돕고 !
+- 개발팀은 서로서로가 돕고 !
+- 개발팀은 사업과시장 돕고 !
+- 개발팀은 오픈소스를 돕고 !
 
-- 은혜갚는 호랑이들 - team TIGER 입니다.
+- 은혜갚는 양진이들 - team SunSin 입니다.
 ![cute tiger](/images/tiger-cute.svg)
 :::
 
@@ -32,9 +32,12 @@
 - 또는 [인재 영입](team/recruit/)
 ![](https://user-images.githubusercontent.com/120996497/209473626-12d63987-9357-4f0a-94a9-35392d4f8869.png)
 :::
-::: details <Badge type="warning" text="backend" vertical="top" /> <Badge type="tip" text="frontend" vertical="top" /> It's you
-- And you and the four heroes who will be joining us soon!
-![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
+::: details Nijin <Badge type="warning" text="student" vertical="top" />
+-  im 희진 ..
+-  im learning about data a lot 
+-  help me plz..plz..plz..
+-  감사합니당  
+![Nijin](/images/tiger-slamdunk/me.png)
 :::
 
 ::: details Ock <Badge type="tip" text="iOS" vertical="top" />
@@ -50,30 +53,30 @@ SwiftUI
 ```
 :::
 
-::: details JK <Badge type="warning" text="backend" vertical="top" />
-- Backend Developer
-- 자료구조와 데이터베이스를 좋아합니다.
-- 최적화에 진심입니다.
-- 열심히 하겠습네다. 잘 부탁드립네다.
+::: details Cho6019(조민규) <Badge type="tip" text="Data" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+- Wanna be Data Engineer
+- 데이터베이스 구조, 파이프라인 등을 공부하고 싶습니다.
+- 코드 원리를 이해하고 싶어합니다.
+- 자주 좁니다. 한대쳐서 깨워주세요.
 
-![JK](/images/darth-vader.png)
+![Where is your image?!](/images/cho-profile.png)
 ```
 Java
-Spring Boot
-Mysql
+SQL(Oracle, Mysql)
+AWS
+Node.js
 ```
 :::
 
-::: details Dew <Badge type="warning" text="backend" vertical="top" />
-- Backend Developer
-- Kubernetes Engineer
+::: details Stundrg(강현룡) <Badge type="warning" text="backend" vertical="top" />
+- 노는게 제일 좋아
+- 전에 다니던 보안 회사에서 QA일을 했습니다. 테스트나 이슈 재현 같은 일들 주로 해왔습니다. ^^
+- PC 세팅, 멀티부팅 같은 세팅을 빠르게 할 수 있습니다. 필요하면 말만 하십셔 ^^7
 - 많은 관심과 격려 부탁드립니다~~
 
-![Dew](/images/tiger-slamdunk/tiger-slamdunk.007.jpeg)
+![stundrg](/images/Devil9.png)
 ```
-Java & Spring
-Oracle, Mysql
-Kubernetes
+아무런 능력 없음
 ```
 :::
 
@@ -93,18 +96,14 @@ LiDAR - Light Detection And Ranging
 ```
 :::
 
-::: details JD <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
-- Impossible is nothing!
-- Super positive!
-- Backend + Front(Android, iOS, Flutter) developer
+::: details lucas <Badge type="tip" text="노량진" vertical="top" /> 
+- Data analyst(I want to become one, but I don't know anything yet).
+- Please give me a lot of help.
+- If you help me, I'll be blessed!
 
-![JD](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
+![lucas](/images/tiger-slamdunk/003.png)
 ```
-Flutter, Nest.JS, TypeScript, Android, iOS
-Spring boot
-MySQL, MongoDB, PostgreSQL
-Docker
-AWS, GCP
+Lotto Number : 3 13 27 29 33 36 + 8
 ```
 :::
 
