@@ -1,28 +1,27 @@
-# team TIGIER
-### 은혜 갚는 호랑이
-::: details 어흥! 안 잡아~ 먹지!
-- 개발팀은 서로서로가 돕고 !
-- 개발팀은 사업과시장 돕고 !
-- 개발팀은 오픈소스를 돕고 !
+# TEAM SUNSIN
+### 必死則生必生則死
+::: details 필사즉생필생즉사
+- 죽고자 하면 필히 살 것이니,
+- PR 올려 검토하고 테스트하라.
+- 살고자 하면 필히 죽으리니,
+- 곧장 MAIN 머지하고 배포 말지어다.
 
-- 은혜갚는 양진이들 - team SunSin 입니다.
-![cute tiger](/images/tiger-cute.svg)
+![필사즉생필생즉사](https://cdn.newsfreezone.co.kr/news/photo/201908/123367_108992_1412.jpg)
 :::
 
-### Guide for New Members
-::: tip 새로운 분에게 배울 자세가 되어 있는 teamTIGER@cashmallow.dev
+### Code of Conduct
+::: tip 새로운 분에게 배울 자세가 되어 있는 TEAM SUNSIN.SHOP
 
-1. 첫 출근길 - 선릉역 호랭이 개발팀 소굴은 [선릉역 10번 출구에서 256걸음](https://goo.gl/maps/uRhfzTfoyxDErN5H7 - [서울특별시 강남구 선릉로 94길 14](https://goo.gl/maps/uRhfzTfoyxDErN5H7)
+1. 행동강령(CoC) 위원회 작업 중 ...
+1. 참조 : 파이콘 행동 강령(https://2023.pycon.kr/coc/purpose)
+1. 우리는 함께 성장합니다.
+1. 모르는 것은 죄가 아니다. 모르는 것을 감추는 순간 큰 장애로 되돌아 온다.
+1. 프로젝트는 실패해도 팀은 남는다.
+1. 테스트 할 수 없는 것은 만들 수 없다.
+1. 애자일 선언 이면의 원칙 - 우리의 최우선 순위는, 가치 있는 소프트웨어를
+일찍 그리고 지속적으로 전달해서 고객을 만족시키는 것이다, 작동하는 소프트웨어를 자주 전달하라 등등 ... - 을 위해 우리는 개발 극 초기에 PR 을 생성한다.
 
-2. 개발 환경 - 입사일 전 원하시는 환경에 대한 문의를 바탕으로 모든 것이 딱! 세팅되어 있습니다. 노트북 열고 바로 코드리뷰 따라오시면 됩니다.
-
-3. 코드 리뷰 - 메일 메일 조금씩 즐거운 분위기에서 코드리뷰를 진행합니다. 개발 문화와 업무흐름 code review로 알려드리겠습니다.
-
-4. 호랑이 코드 치던 시설 ~ 첫 코드리뷰 참가시 자기소개 타임이 있습니다. AppleTV4K에 맥북 연결하시고 자기소개 시작! & 끝나고 4케 한잔! 이제 첫날 업무 끝! 고생하셨습니다.
-
-5. 힐러와 히어로 - 새로운 환경에서 지치고 외로울 때 당신의 뒤에는 1:1 전담 힐러가 있어요. 그리고 매 주간 투표를 통해 선정되는 개발팀 히어로는 당신의 모든 문제에 대하여 도움을 제공합니다 - please find healer and hero.
-
-![힐러](https://mblogthumb-phinf.pstatic.net/20160410_240/dldbdgml99_1460288270630thoD3_PNG/%BF%C0%B9%F6%BF%F6%C4%A1-%C8%FA%B7%AF-%C6%F7%BD%BA%C6%C3-%BD%E6%B3%D7%C0%CF.png?type=w2)
+![우분투](https://mblogthumb-phinf.pstatic.net/MjAxOTA1MjRfMjQz/MDAxNTU4NjkxMTkxMTAy.rThPBG-QesuHIURRtTcepgEKHXgvWtHKBwYqMScZiNog.UAOrIQbI44pw5GhYJ3pD7EzymcP6aKd-5uyaNKCqJMsg.PNG.yozguy/%EC%9A%B0%EB%B6%84%ED%88%AC3.png?type=w420)
 :::
 
 ::: tip
