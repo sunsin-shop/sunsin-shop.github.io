@@ -56,7 +56,9 @@ SwiftUI
 - 코드 원리를 이해하고 싶어합니다.
 - 자주 좁니다. 한대쳐서 깨워주세요.
 
-![Where is your image?!](/images/cho-profile.png)
+<img src='/images/cho-profile.png' alt="Where is your image?!" width='600' style="height: auto;" />
+
+<!-- ![Where is your image?!](/images/cho-profile.png) -->
 ```
 Java
 SQL(Oracle, Mysql)
