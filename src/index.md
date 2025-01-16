@@ -4,7 +4,7 @@ home: true
 heroImage: /images/hero.png
 heroImageDark: /images/heroD.png
 
-heroText: 'team blog@sunsin.shop'
+heroText: 'HEEJIN blog@sunsin.shop'
 title: team SUNSIN 
 
 tagline: SUNSIN team is the best data engineering team in Noryang
