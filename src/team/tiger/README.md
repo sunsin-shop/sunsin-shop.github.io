@@ -30,12 +30,22 @@
 - 또는 [인재 영입](team/recruit/)
 ![](https://user-images.githubusercontent.com/120996497/209473626-12d63987-9357-4f0a-94a9-35392d4f8869.png)
 :::
-::: details Nijin <Badge type="warning" text="student" vertical="top" />
--  im 희진 ..
--  im learning about data a lot 
+
+### Heejin
+::: details Nijin <Badge type="warning" text="Data" vertical="top" />
+-  Im 희진 
+-  Im learning about data a lot
+-  데이터 엔지니어가 되..
 -  help me plz..plz..plz..
--  감사합니당  
+
+- [🍕vercel ](https://age.journeyjean.shop/)
+- [🍔pypi ](https://pypi.org/project/hj-check-os-version/)
+- [🍟blog ](https://heejin131.github.io/)
+
 ![Nijin](/images/tiger-slamdunk/me2.png)
+```
+🍀 
+```
 :::
 
 ::: details nunininu(조성근) <Badge type="tip" text="Data" vertical="top" />
