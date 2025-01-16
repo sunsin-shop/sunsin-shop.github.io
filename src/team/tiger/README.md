@@ -102,7 +102,7 @@ LiDAR - Light Detection And Ranging
 - Please give me a lot of help.
 - If you help me, I'll be blessed!
 
-![lucas](/images/tiger-slamdunk/003.png)
+![lucas.2](/images/tiger-slamdunk/003.png)
 ```
 Lotto Number : 3 13 27 29 33 36 + 8
 ```
