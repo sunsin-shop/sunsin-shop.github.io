@@ -38,8 +38,7 @@
 ![Nijin](/images/tiger-slamdunk/me2.png)
 :::
 
-### Nuninin
-u
+### nunininu
 ::: details nunininu(조성근) <Badge type="tip" text="Data" vertical="top" />
 -[Github](https://github.com/nunininu)
 -[Notion](https://www.notion.so/c17b6022a6a94633ae42c2d2c16f12c5)
