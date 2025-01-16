@@ -46,7 +46,7 @@
 - 코딩을 잘하고 싶습니다.
 - 데이터 분석가로 전직하고 싶습니다.
 
-![Ock](/images/tiger-slamdunk/man-itself-black.png)
+![Ock](/images/tiger-slamdunk/man-itself-black_resized.png)
 ```
 Excel
 SPSS
