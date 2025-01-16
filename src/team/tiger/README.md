@@ -81,18 +81,21 @@ Node.js
 ```
 :::
 
-::: details Alex <Badge type="warning" text="backend" vertical="top" />
-- 스포츠 즐겨보고 그중에서도 야구와 농구를 좋아합니다.
-- 데이터 분석과 시각화를 잘 배워서  프로젝트까지 잘 완성하고 싶습니다.
-- 매번 제가 질문할 때마다 옆에서 잘 알려주시는 분들 감사합니다ㅎㅎ
+::: details Alex <Badge type="warning" text="Data" vertical="top" />
+- 대학때는 기계공학 전공했었고, 이전에 Python을 취미로 잠깐 다뤘습니다.
+- 스포츠를 즐겨보고 그중에서도 야구와 농구를 좋아합니다.
+- 데이터 분석과 시각화를 열심히 배워서 프로젝트까지 잘 완성하고 싶습니다.
+- 매번 제가 질문할 때마다 옆에서 알려주시는 분들 감사합니다ㅎㅎ
+- https://github.com/wminhyuk, https://www.notion.so/LG-U-Why-Not-SW-Camp-162c6e72ac1d809cb499f9a92dd4881a(초대 필요)
 
-![Alex](/images/tiger-slamdunk/keyping_600.png)
+### wminhyuk
+![wminhyuk(서민혁)](/images/tiger-slamdunk/keyping_600.png)
 ```
 Python
 ```
 :::
 
-::: details lucas <Badge type="tip" text="노량진" vertical="top" /> 
+::: details lucas <Badge type="tip" text="Data" vertical="top" /> 
 - Data analyst(I want to become one, but I don't know anything yet).
 - Please give me a lot of help.
 - If you help me, I'll be blessed!
