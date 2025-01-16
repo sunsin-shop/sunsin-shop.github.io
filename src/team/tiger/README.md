@@ -69,12 +69,14 @@ Node.js
 ```
 :::
 
+### Stundrg
 ::: details Stundrg(강현룡) <Badge type="warning" text="Data" vertical="top" /><Badge type= "tip" text = "Qa" vertical = "top"/> 
 - 노는게 제일 좋아
 - 전에 다니던 보안 회사에서 QA 직무을 했습니다. 테스트나 이슈 재현 같은 일들 주로 해왔습니다. ^^
 - PC 세팅, 멀티부팅 같은 세팅을 빠르게 할 수 있습니다. 필요하면 말만 하십셔 ^^7
 - 많은 관심과 격려 부탁드립니다~~
 
+[Link](https://www.notion.so/QA-Test-Guide-aa970eb03fe94553bc9ef06ad5b27994?pvs=4)
 ![stundrg](/images/Devil9.png)
 ```
 아무런 능력 없음
