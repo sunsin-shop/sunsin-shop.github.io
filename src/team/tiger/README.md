@@ -40,16 +40,17 @@
 ![Nijin](/images/tiger-slamdunk/me.png)
 :::
 
-::: details Ock <Badge type="tip" text="iOS" vertical="top" />
-- iOS Developer
-- UI/UX에 진심입니다.
-- 사용자를 생각하며 개발합니다.
-- 열심히 잘 하겠습니다.
+::: details nunininu(조성근) <Badge type="tip" text="Data" vertical="top" />
+- 열심히 배우고 있습니다. 
+- 통계분석 경력이 있습니다.
+- 코딩을 잘하고 싶습니다.
+- 데이터 분석가로 전직하고 싶습니다.
 
-![Ock](/images/tiger-slamdunk/tiger-slamdunk.005.jpeg)
+![Ock](/images/tiger-slamdunk/man-itself-black.png)
 ```
-Swift
-SwiftUI
+Excel
+SPSS
+R
 ```
 :::
 
