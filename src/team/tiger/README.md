@@ -77,19 +77,14 @@ Node.js
 ```
 :::
 
-::: details Alex <Badge type="warning" text="backend" vertical="top" />
-- M.S. in Computer Science
-- Backend Engineer
-- 좋은 백엔드 엔지니어가 되기 위해서 공부 중입니다. 많이 물어보고 많이 가르쳐주세요.
+::: details Alex(서민혁) <Badge type="warning" text="backend" vertical="top" />
+- 취미로 스포츠를 좋아합니다. 특히 야구와 농구 좋아해요ㅎㅎ
+- 여기서 공부하는 데이터 분석 및 시각화를 활용해서 의미 있는 프로젝트 하고 싶습니다ㅎㅎ 
+- 아직 부족하고 배울 부분이 많다고 생각합니다. 제가 질문할때마다 도와주시는 분들께 감사합니다!!^^ 
 
-![Alex](/images/tiger-slamdunk/tiger-slamdunk.004.jpeg)
+![Alex](/images/tiger-slamdunk/keyping.png)
 ```
-JAVA
-C
-Spring boot
-Kubernetes
-OpenGL
-LiDAR - Light Detection And Ranging
+Python/SQL
 ```
 :::
 
