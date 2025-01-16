@@ -25,7 +25,6 @@
 ![힐러](https://mblogthumb-phinf.pstatic.net/20160410_240/dldbdgml99_1460288270630thoD3_PNG/%BF%C0%B9%F6%BF%F6%C4%A1-%C8%FA%B7%AF-%C6%F7%BD%BA%C6%C3-%BD%E6%B3%D7%C0%CF.png?type=w2)
 :::
 
-### Member
 ::: tip
 - 입사 확정 시 PR 부탁드립니다. 자연 스럽게 코드리뷰 & 자기소개 시간 -> 첫날 환영 뒷풀이 GOGO!
 - 또는 타이거팀 합류 희망 시 [contribute guide](https://github.com/oss-cashmallow/oss-cashmallow.github.io#contribute-guide) 를 참고하여 PR 보내주세요. 어흥~ 모시러 가겠습니다.
@@ -149,10 +148,11 @@ python
 ```
 :::
 
+### Tom Saywer
 ::: details Tom <Badge type="warning" text="Data" vertical="top" />
 - 홀로 성장하는 시대는 끝났다
 
-![TomSawyer](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14153d09-f6c7-48b5-bd93-5f4fad4babb8/dg790z4-393a24a2-078f-4f02-a5d2-f3c7ae6484bc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0MTUzZDA5LWY2YzctNDhiNS1iZDkzLTVmNGZhZDRiYWJiOFwvZGc3OTB6NC0zOTNhMjRhMi0wNzhmLTRmMDItYTVkMi1mM2M3YWU2NDg0YmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H1JI5rL71RBxZ09whWFR76dpYCudCvjs5PdnXkdKbZw)
+![TomSawyer](/images/tomsawyer.png)
 ```
  ⠀⠀⠀⠀⠀⠀⣴⠶⢦⣤⠶⠶⣄
 ⠀⠀⠀⠀⠀⠀⣇⠀⠀⠁⠀⢀⣿
