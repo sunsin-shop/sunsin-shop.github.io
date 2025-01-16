@@ -10,4 +10,8 @@ node_modules
 /.idea/.gitignore
 
 # MY
-docs/
+# docs 폴더 전체 무시
+/docs/*
+
+# docs/CNAME 파일은 예외로 포함
+!/docs/CNAME
