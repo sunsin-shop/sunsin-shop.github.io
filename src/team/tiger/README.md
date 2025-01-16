@@ -81,6 +81,7 @@ Node.js
 ```
 :::
 
+### wminhyuk
 ::: details wminhyuk(서민혁) <Badge type="warning" text="Data" vertical="top" />
 - 대학때는 기계공학 전공했었고, 이전에 Python을 취미로 잠깐 다뤘습니다.
 - 스포츠를 즐겨보고 그중에서도 야구와 농구를 좋아합니다.
@@ -88,7 +89,6 @@ Node.js
 - 매번 제가 질문할 때마다 옆에서 알려주시는 분들 감사합니다ㅎㅎ
 - https://github.com/wminhyuk, https://www.notion.so/LG-U-Why-Not-SW-Camp-162c6e72ac1d809cb499f9a92dd4881a(초대 필요)
 
-### wminhyuk
 ![Alex](/images/tiger-slamdunk/keyping_600.png)
 ```
 Python
