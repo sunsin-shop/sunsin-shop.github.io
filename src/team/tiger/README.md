@@ -1,11 +1,11 @@
 # team TIGIER
 ### 은혜 갚는 호랑이
 ::: details 어흥! 안 잡아~ 먹지!
-- 캐시멜로 개발팀은 서로서로가 돕고 !
-- 캐시멜로 개발팀은 사업과시장 돕고 !
-- 캐시멜로 개발팀은 오픈소스를 돕고 !
+- 개발팀은 서로서로가 돕고 !
+- 개발팀은 사업과시장 돕고 !
+- 개발팀은 오픈소스를 돕고 !
 
-- 은혜갚는 호랑이들 - team TIGER 입니다.
+- 은혜갚는 양진이들 - team SunSin 입니다.
 ![cute tiger](/images/tiger-cute.svg)
 :::
 
@@ -32,9 +32,12 @@
 - 또는 [인재 영입](team/recruit/)
 ![](https://user-images.githubusercontent.com/120996497/209473626-12d63987-9357-4f0a-94a9-35392d4f8869.png)
 :::
-::: details <Badge type="warning" text="backend" vertical="top" /> <Badge type="tip" text="frontend" vertical="top" /> It's you
-- And you and the four heroes who will be joining us soon!
-![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
+::: details Nijin <Badge type="warning" text="student" vertical="top" />
+-  im 희진 ..
+-  im learning about data a lot 
+-  help me plz..plz..plz..
+-  감사합니당  
+![Nijin](/images/tiger-slamdunk/me.png)
 :::
 
 ::: details Ock <Badge type="tip" text="iOS" vertical="top" />
@@ -50,30 +53,30 @@ SwiftUI
 ```
 :::
 
-::: details JK <Badge type="warning" text="backend" vertical="top" />
-- Backend Developer
-- 자료구조와 데이터베이스를 좋아합니다.
-- 최적화에 진심입니다.
-- 열심히 하겠습네다. 잘 부탁드립네다.
+::: details Cho6019(조민규) <Badge type="tip" text="Data" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+- Wanna be Data Engineer
+- 데이터베이스 구조, 파이프라인 등을 공부하고 싶습니다.
+- 코드 원리를 이해하고 싶어합니다.
+- 자주 좁니다. 한대쳐서 깨워주세요.
 
-![JK](/images/darth-vader.png)
+![Where is your image?!](/images/cho-profile.png)
 ```
 Java
-Spring Boot
-Mysql
+SQL(Oracle, Mysql)
+AWS
+Node.js
 ```
 :::
 
-::: details Dew <Badge type="warning" text="backend" vertical="top" />
-- Backend Developer
-- Kubernetes Engineer
+::: details Stundrg(강현룡) <Badge type="warning" text="backend" vertical="top" />
+- 노는게 제일 좋아
+- 전에 다니던 보안 회사에서 QA일을 했습니다. 테스트나 이슈 재현 같은 일들 주로 해왔습니다. ^^
+- PC 세팅, 멀티부팅 같은 세팅을 빠르게 할 수 있습니다. 필요하면 말만 하십셔 ^^7
 - 많은 관심과 격려 부탁드립니다~~
 
-![Dew](/images/tiger-slamdunk/tiger-slamdunk.007.jpeg)
+![stundrg](/images/Devil9.png)
 ```
-Java & Spring
-Oracle, Mysql
-Kubernetes
+아무런 능력 없음
 ```
 :::
 
@@ -113,6 +116,22 @@ Lotto Number : 3 13 27 29 33 36 + 8
 MySQL, Oracle, 
 Java, Spring Framework, Spring Boot
 jQuery, json
+
+```
+:::
+
+::: details Jacob <Badge type="tip" text="LG U+4기 " vertical="top" /> <Badge type="warning" text="NEWBIE" vertical="top" /> <Badge type="tip" text="찾아가는중" vertical="top" /> <Badge type="tip" text="Data Engineer?" vertical="top" />
+- 최근 경력이라면.. 용산 미군기지 안에 있는  GNC 보충제 샵에서 매장운영 및 발주 등 전반적인 일을 했었습니다.
+- 취미는 게임입니다 총 쏘는 게임 좋아합니다 Call of Duty 멀티 주로 하고 있어요.
+- 아직 직무나 분야를 정하지는 못했어요 매일 새로워서 배우다 보면 더 집중적으로 배우고 싶은게 생길거라 생각하고 있습니다.
+- 아무것도 모르고 헤매고 있을 때 도와주셔서 감사해요!!
+- 더 준비하고 공부해서 나아지는 모습 보여드릴게요.
+- 부족하지만 따라가려고 노력하고 있습니다 잘 부탁드립니다!
+
+![Jacob](/images/tiger-slamdunk/woohoo.webp)
+```
+MySQL
+Python
 
 ```
 :::
