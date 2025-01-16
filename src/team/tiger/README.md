@@ -32,21 +32,25 @@
 - 또는 [인재 영입](team/recruit/)
 ![](https://user-images.githubusercontent.com/120996497/209473626-12d63987-9357-4f0a-94a9-35392d4f8869.png)
 :::
-::: details <Badge type="warning" text="backend" vertical="top" /> <Badge type="tip" text="frontend" vertical="top" /> It's you
-- And you and the four heroes who will be joining us soon!
-![mallow tiger](/images/tiger-slamdunk/tiger-slamdunk.006.jpeg)
+::: details Nijin <Badge type="warning" text="student" vertical="top" />
+-  im 희진 ..
+-  im learning about data a lot 
+-  help me plz..plz..plz..
+-  감사합니당  
+![Nijin](/images/tiger-slamdunk/me.png)
 :::
 
-::: details Ock <Badge type="tip" text="iOS" vertical="top" />
-- iOS Developer
-- UI/UX에 진심입니다.
-- 사용자를 생각하며 개발합니다.
-- 열심히 잘 하겠습니다.
+::: details nunininu(조성근) <Badge type="tip" text="Data" vertical="top" />
+- 열심히 배우고 있습니다. 
+- 통계분석 경력이 있습니다.
+- 코딩을 잘하고 싶습니다.
+- 데이터 분석가로 전직하고 싶습니다.
 
-![Ock](/images/tiger-slamdunk/tiger-slamdunk.005.jpeg)
+![Ock](/images/tiger-slamdunk/man-itself-black.png)
 ```
-Swift
-SwiftUI
+Excel
+SPSS
+R
 ```
 :::
 
@@ -93,18 +97,14 @@ LiDAR - Light Detection And Ranging
 ```
 :::
 
-::: details JD <Badge type="tip" text="frontend" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
-- Impossible is nothing!
-- Super positive!
-- Backend + Front(Android, iOS, Flutter) developer
+::: details lucas <Badge type="tip" text="노량진" vertical="top" /> 
+- Data analyst(I want to become one, but I don't know anything yet).
+- Please give me a lot of help.
+- If you help me, I'll be blessed!
 
-![JD](/images/tiger-slamdunk/tiger-slamdunk.003.jpeg)
+![lucas.2](/images/tiger-slamdunk/003.png)
 ```
-Flutter, Nest.JS, TypeScript, Android, iOS
-Spring boot
-MySQL, MongoDB, PostgreSQL
-Docker
-AWS, GCP
+Lotto Number : 3 13 27 29 33 36 + 8
 ```
 :::
 
@@ -117,6 +117,22 @@ AWS, GCP
 ![Jerry](/images/tiger-slamdunk/chill-sketch.jpg)
 ```
 Swift, Python
+
+```
+:::
+
+::: details Jacob <Badge type="tip" text="LG U+4기 " vertical="top" /> <Badge type="warning" text="NEWBIE" vertical="top" /> <Badge type="tip" text="찾아가는중" vertical="top" /> <Badge type="tip" text="Data Engineer?" vertical="top" />
+- 최근 경력이라면.. 용산 미군기지 안에 있는  GNC 보충제 샵에서 매장운영 및 발주 등 전반적인 일을 했었습니다.
+- 취미는 게임입니다 총 쏘는 게임 좋아합니다 Call of Duty 멀티 주로 하고 있어요.
+- 아직 직무나 분야를 정하지는 못했어요 매일 새로워서 배우다 보면 더 집중적으로 배우고 싶은게 생길거라 생각하고 있습니다.
+- 아무것도 모르고 헤매고 있을 때 도와주셔서 감사해요!!
+- 더 준비하고 공부해서 나아지는 모습 보여드릴게요.
+- 부족하지만 따라가려고 노력하고 있습니다 잘 부탁드립니다!
+
+![Jacob](/images/tiger-slamdunk/woohoo.webp)
+```
+MySQL
+Python
 
 ```
 :::
