@@ -137,11 +137,13 @@ Python
 ```
 :::
 
+### jiwon
 ::: details jiwon <Badge type="warning" text="Data" vertical="top" />
 - data science 전공
 - 말하는 감자입니다.
 - 열심히 배워보갔습니다...
 
+[Link](https://github.com/jiwon1118)
 ![jiwon](/images/park.png)
 ```
 MySQL, Oracle
