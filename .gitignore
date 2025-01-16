@@ -14,4 +14,4 @@ node_modules
 /docs/*
 
 # docs/CNAME 파일은 예외로 포함
-!/docs/CNAME
+#!/docs/CNAME
