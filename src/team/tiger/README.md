@@ -30,12 +30,22 @@
 - 또는 [인재 영입](team/recruit/)
 ![](https://user-images.githubusercontent.com/120996497/209473626-12d63987-9357-4f0a-94a9-35392d4f8869.png)
 :::
-::: details Nijin <Badge type="warning" text="student" vertical="top" />
--  im 희진 ..
--  im learning about data a lot 
+
+### Heejin
+::: details Nijin <Badge type="warning" text="Data" vertical="top" />
+-  Im 희진 
+-  Im learning about data a lot
+-  데이터 엔지니어가 되..
 -  help me plz..plz..plz..
--  감사합니당  
+
+- [🍕vercel ](https://age.journeyjean.shop/)
+- [🍔pypi ](https://pypi.org/project/hj-check-os-version/)
+- [🍟blog ](https://heejin131.github.io/)
+
 ![Nijin](/images/tiger-slamdunk/me2.png)
+```
+🍀 
+```
 :::
 
 ::: details nunininu(조성근) <Badge type="tip" text="Data" vertical="top" />
@@ -52,6 +62,7 @@ R
 ```
 :::
 
+### Cho6019
 ::: details Cho6019(조민규) <Badge type="tip" text="Data" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
 - Wanna be Data Engineer
 - 데이터베이스 구조, 파이프라인 등을 공부하고 싶습니다.
@@ -66,15 +77,18 @@ Java
 SQL(Oracle, Mysql)
 AWS
 Node.js
+[Github Profile](https://github.com/cho6019)
 ```
 :::
 
+### Stundrg
 ::: details Stundrg(강현룡) <Badge type="warning" text="Data" vertical="top" /><Badge type= "tip" text = "Qa" vertical = "top"/> 
 - 노는게 제일 좋아
 - 전에 다니던 보안 회사에서 QA 직무을 했습니다. 테스트나 이슈 재현 같은 일들 주로 해왔습니다. ^^
 - PC 세팅, 멀티부팅 같은 세팅을 빠르게 할 수 있습니다. 필요하면 말만 하십셔 ^^7
 - 많은 관심과 격려 부탁드립니다~~
 
+[Link](https://www.notion.so/QA-Test-Guide-aa970eb03fe94553bc9ef06ad5b27994?pvs=4)
 ![stundrg](/images/Devil9.png)
 ```
 아무런 능력 없음
@@ -95,10 +109,15 @@ Python
 ```
 :::
 
-::: details lucas <Badge type="tip" text="Data" vertical="top" /> 
+### lucas
+::: details lucas <Badge type="tip" text="노량진" vertical="top" /> 
 - Data analyst(I want to become one, but I don't know anything yet).
 - Please give me a lot of help.
 - If you help me, I'll be blessed!
+- [Instargram   🅾  ](https://www.instagram.com/b.h.gyun/profilecard/?igsh=MWVsbWJ2ejYxdmRzbw==)
+- [Github 💻](https://github.com/lucas-hub12)
+- [Blog 🖊️📖✏📚](https://lucas-hub12.github.io/)
+- [Pypi 🙊🙈🙉](https://pypi.org/project/lucas-check-os-ver/)
 
 ![lucas.2](/images/003.png)
 ```
@@ -106,7 +125,13 @@ Lotto Number : 3 13 27 29 33 36 + 8
 ```
 :::
 
+### Jerry
 ::: details Jerry <Badge type="tip" text="iOS" vertical="top" /> <Badge type="warning" text="backend" vertical="top" />
+---
+- [Github](https://github.com/vhzkclq0705)
+- [Tech blog](https://velog.io/@o_joon_/posts)
+- [Instagram](https://www.instagram.com/o_jooon_/)
+---
 - iOS developer, Back-end, Data engineer
 - Always positive!
 - Passionate about learning new skills in data engineering, k8s, Docker, AWS, and more.
@@ -119,13 +144,15 @@ Swift, Python
 ```
 :::
 
+### Jacob
 ::: details Jacob <Badge type="tip" text="LG U+4기 " vertical="top" /> <Badge type="warning" text="NEWBIE" vertical="top" /> <Badge type="tip" text="찾아가는중" vertical="top" /> <Badge type="tip" text="Data Engineer?" vertical="top" />
 - 최근 경력이라면.. 용산 미군기지 안에 있는  GNC 보충제 샵에서 매장운영 및 발주 등 전반적인 일을 했었습니다.
 - 취미는 게임입니다 총 쏘는 게임 좋아합니다 Call of Duty 멀티 주로 하고 있어요.
 - 아직 직무나 분야를 정하지는 못했어요 매일 새로워서 배우다 보면 더 집중적으로 배우고 싶은게 생길거라 생각하고 있습니다.
 - 아무것도 모르고 헤매고 있을 때 도와주셔서 감사해요!!
-- 더 준비하고 공부해서 나아지는 모습 보여드릴게요.
 - 부족하지만 따라가려고 노력하고 있습니다 잘 부탁드립니다!
+- [Jacob's Github](https://github.com/Jacob-53)
+- [Blog](https://jacob-53.github.io/) 업데이트 예정입니다.
 
 ![Jacob](/images/tiger-slamdunk/woohoo.png)
 ```
@@ -135,11 +162,13 @@ Python
 ```
 :::
 
+### jiwon
 ::: details jiwon <Badge type="warning" text="Data" vertical="top" />
 - data science 전공
 - 말하는 감자입니다.
 - 열심히 배워보갔습니다...
 
+[Link](https://github.com/jiwon1118)
 ![jiwon](/images/park.png)
 ```
 MySQL, Oracle
