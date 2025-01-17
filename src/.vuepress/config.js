@@ -14,10 +14,10 @@ export default defineUserConfig({
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'tech-blog:cashmallow' }],
-    ['meta', { property: 'og:description', content: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem" }],
-    ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/120996497/209457891-2c91f7fe-514d-4431-bfcb-7f6ee72ed8ee.png' }],
-    ['meta', { property: 'og:url', content: 'https://oss.cashmallow.com' }],
+    ['meta', { property: 'og:title', content: 'heejin-blog:team SUNSIN' }],
+    ['meta', { property: 'og:description', content: "Im heejin, who likes to study code." }],
+    ['meta', { property: 'og:image', content: 'https://heejin131.github.io/images/preview.png' }],
+    ['meta', { property: 'og:url', content: 'https://blog.journeyjean.shop' }],
   ],
   
   locales: {
@@ -66,8 +66,8 @@ export default defineUserConfig({
     logo: "/images/hero.png",
     logoDark: "/images/heroD.png",
 
-    repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
-    repoLabel: "discussions",
+    repo: "https://github.com/heejin131",
+    repoLabel: "github",
 
     contributors: false,
 
@@ -81,17 +81,17 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "101", link: "https://github.com/ppabam/101" },
+      { text: "RESUME", link: "/resume/" },
     ],
 
     sidebar: {
       "/": [
         {
-          text: "share",
+          text: "resume",
           collapsible: true,
           children: [
-            "/tech/share/",
+            "/resume/",
           ],
         },
         {

@@ -10,16 +10,12 @@ title: team SUNSIN
 tagline: SUNSIN team is the best data engineering team in Noryang
 
 actions:
-  - text: tech SHARE
-    link: /tech/share
+  - text: GITHUB
+    link: https://github.com/heejin131
     type: primary
   
-  - text: team SUNSIN
-    link: /team/tiger
-    type: secondary
-
-  - text: open SOURCE
-    link: /tech/share/opensource
+  - text: RESUME
+    link: /resume
     type: secondary
 
 features:
@@ -30,5 +26,5 @@ features:
 - title: Mang-gom
   details: MAng-gom is the character of this main page. there is no special reason to pick it. The only thing I chose this charater is just cute. 
 
-footer: THE SUNSIN@sunsin who has returned the favor. 2025.
+footer: blog@HEEJIN. 2025.
 ---
