@@ -4,10 +4,10 @@ home: true
 heroImage: /images/hero.png
 heroImageDark: /images/heroD.png
 
-heroText: 'HEEJIN blog@sunsin.shop'
-title: team SUNSIN 
+heroText: 'HEEJIN@journeyjean.shop'
+title: NIJIN 
 
-tagline: SUNSIN team is the best data engineering team in Noryang
+tagline: Welcome to NIJIN's Blog! If you want to know more about me, Please click the buttons below.
 
 actions:
   - text: GITHUB
@@ -19,12 +19,12 @@ actions:
     type: secondary
 
 features:
-- title: team SUNSIN
-  details: A team composed of Data Engineers. We study hard with Tom.
-- title: HEEJIN
-  details: IM the master of this blog. im trying to make this blog famous.
-- title: Mang-gom
-  details: MAng-gom is the character of this main page. there is no special reason to pick it. The only thing I chose this charater is just cute. 
+- title: 😊 About Me
+  details: I am studing to become a Data Engineer. With a strong passion for problem-solving and attention to detail, I aim to turn complex data into meaningful insights.
+- title: 📣 Announcements
+  details: If you are interested in me. Please follow me on GitHub!
+- title: 🙏 Q&A
+  details: I appreciate your interest and support.  
 
 footer: blog@HEEJIN. 2025.
 ---
