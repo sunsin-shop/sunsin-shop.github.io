@@ -1,5 +1,5 @@
 # RESUME
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="images/resume.png" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/resume.png" />
 
 <span style="float:right;padding:6px"> 
  📧 journeyjean131@gmail <br> 💻 github:github.com/heejin131 <br> ✨ Nationality: KOREAN
