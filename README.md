@@ -1,5 +1,5 @@
-# Team blog@nunininu.shop
-- Cashmallow development team's technology blog about wanting to contribute to the open source ecosystem
+# blog@nunininu.shop
+- nunininu's technology blog about wanting to escape from trouble when programming 
   
 <img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="team sunsin" style="width:200px;"/>
 
