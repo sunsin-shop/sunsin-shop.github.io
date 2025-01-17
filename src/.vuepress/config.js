@@ -16,7 +16,7 @@ export default defineUserConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'nunininu blog' }],
     ['meta', { property: 'og:description', content: 'Struggle from programming' }],
-    ['meta', { property: 'og:image', content: 'https://nunininu.github.io/images/repository-open-graph-nunininu.jpg' }],
+    ['meta', { property: 'og:image', content: 'https://blog.nunininu.shop/images/repository-open-graph-nunininu.jpg' }],
     ['meta', { property: 'og:url', content: 'https://blog.nunininu.shop' }],
   ],
   
