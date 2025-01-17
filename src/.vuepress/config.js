@@ -9,15 +9,15 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'blog.nunininu',
-  description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+  title: 'nunininu',
+  description: "I always suffer from programming",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'tech-blog:cashmallow' }],
-    ['meta', { property: 'og:description', content: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem" }],
-    ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/120996497/209457891-2c91f7fe-514d-4431-bfcb-7f6ee72ed8ee.png' }],
-    ['meta', { property: 'og:url', content: 'https://oss.cashmallow.com' }],
+    ['meta', { property: 'og:title', content: 'nunininu blog' }],
+    ['meta', { property: 'og:description', content: 'Struggle from programming' }],
+    ['meta', { property: 'og:image', content: 'https://nunininu.github.io/images/repository-open-graph-nunininu.jpg' }],
+    ['meta', { property: 'og:url', content: 'https://blog.nunininu.shop' }],
   ],
   
   locales: {
