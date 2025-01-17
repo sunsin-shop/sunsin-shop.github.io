@@ -9,7 +9,7 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team TIGER',
+  title: 'blog.nunininu',
   description: "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
 
   head: [
@@ -81,8 +81,8 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "nunininu", link: "https://www.cashmallow.com" },
+      { text: "nunininu", link: "/team/recruit/" },
     ],
 
     sidebar: {

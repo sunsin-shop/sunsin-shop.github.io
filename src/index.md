@@ -5,8 +5,8 @@ heroImage: /images/hero.jfif
 heroImageDark: /images/heroDark.webp
 
 
-heroText: 'team blog@nunininu.shop'
-title: team.nunininu
+heroText: 'blog@nunininu.shop'
+title: blog.nunininu
 tagline: Why not? 
 
 actions:
@@ -23,7 +23,7 @@ actions:
     type: secondary
 
 features:
-- title: team nunininu
+- title: blog nunininu
   details: Cashmallow Development Team. A person-centered devops-friendly software developer organization that makes and operates more than customers want one step faster than the market.
 - title: cashmallow
   details: troublesome currency exchange that had to do before departue. start a reliable trip by using Cashmallow exchange service.

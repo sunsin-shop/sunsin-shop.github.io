@@ -1,7 +1,7 @@
 {
-  "name": "oss-cashmallow.github.io",
-  "version": "25.1.15",
-  "description": "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
+  "name": "nunininu.github.io",
+  "version": "1.2.0",
+  "description": "nunininu get in trouble",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
