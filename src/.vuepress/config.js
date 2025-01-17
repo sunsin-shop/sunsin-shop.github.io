@@ -88,27 +88,10 @@ export default defineUserConfig({
     sidebar: {
       "/": [
         {
-          text: "share",
+          text: "resume",
           collapsible: true,
           children: [
-            "/tech/share/",
-          ],
-        },
-        {
-          text: "team",
-          collapsible: true,
-          children: [
-            "/team/tiger/",
-            "/team/recruit/",
-            "/team/how2pr/",
-            "/team/tiger2agile/",
-          ],
-        },
-        {
-          text: "opensource",
-          collapsible: true,
-          children: [
-            "/tech/share/opensource/",
+            "/resume/",
           ],
         },
       ],
