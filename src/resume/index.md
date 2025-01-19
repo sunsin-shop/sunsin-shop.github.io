@@ -9,22 +9,16 @@
 
 ## 📌 Executive Summary
 
-* 3 and a half years Part management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* 3 and a half years B2B Service Planning experience
+* Major : Industry Management System Engineering
+* Proficient in Excel, Powerpoint / Basic knowledge in SAP,Photoshop, Python, SQLD 
 
 ## 💼 Working Experience
 
 #### My first Company (Part Leader, 2021.05 ~ 2024.11) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
-
-## 📊 Projects: 
-
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+* Managed and operated B2B training programs & Handled administrative tasks.
+* planned and maintained the website, focusing on UI/UX design and functionality.
 
 ## 🎓 Education
 
