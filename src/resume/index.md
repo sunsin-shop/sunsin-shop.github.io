@@ -11,7 +11,7 @@
 
 * 3 and a half years B2B Service Planning experience
 * Major : Industry Management System Engineering
-* Proficient in Excel, Powerpoint / Basic knowledge in SAP,Photoshop, Python, SQLD 
+* Proficient in Excel, Powerpoint / Basic knowledge in SAP, Photoshop, Python, SQLD 
 
 ## 💼 Working Experience
 
