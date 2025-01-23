@@ -9,13 +9,13 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team SUNSIN',
-  description: "We are a professional team that works affectionately, and above all, grows with our colleagues.",
+  title: '팀순신샵 거북이즈',
+  description: "느리것 처럼 보이는 단단한 기술력을 갖고 있는. 팀순신샵 기술블로그에서 실력과 센스를 겸비한 신입 개발자 엔지니어를 만나 보세요.",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'team-blog:sunsin.shop' }],
-    ['meta', { property: 'og:description', content: "We are a professional team that works affectionately, and above all, grows with our colleagues." }],
+    ['meta', { property: 'og:title', content: '느리것 처럼 보이는 단단한 기술력을 갖고 있는. 팀순신샵  기술블로그. 팀순신샵 거북이즈' }],
+    ['meta', { property: 'og:description', content: "팀순신샵 거북이즈. 느리것 처럼 보이는 단단한 기술력을 갖고 있는. 팀순신샵 기술블로그에서 실력과 센스를 겸비한 신입 개발자 엔지니어를 만나 보세요." }],
     ['meta', { property: 'og:image', content: 'https://sunsin-shop.github.io/images/repository-open-graph-sunsin.png' }],
     ['meta', { property: 'og:url', content: 'https://sunsin-shop.github.io' }],
   ],
@@ -63,7 +63,7 @@ export default defineUserConfig({
       },
     },
 
-    logo: "/images/ninja-turtles.png",
+    logo: "/images/ninja-turtles.webp",
     logoDark: "/images/hero.webp",
 
     repo: "https://github.com/sunsin-shop/sunsin-shop.github.io/discussions",
@@ -99,8 +99,7 @@ export default defineUserConfig({
           collapsible: true,
           children: [
             "/team/turtle/",
-            "/team/recruit/",
-            "/team/how2pr/",
+            "/turtles/portfolios/",
             "/team/tiger2agile/",
           ],
         },
