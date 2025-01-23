@@ -1,7 +1,10 @@
 # tem blog@sunsin.shop
 - Our team's technology blog inherits the spirit of Admiral Yi Sun-sin of Joseon
   
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdREgTNnlP6Bo7iXtMIhUHOygOEk1c0nYiQ&s" alt="team sunsin" style="width:600px;"/>
+![image](https://github.com/user-attachments/assets/6bb733db-b567-4664-9d52-1e7c4d939106)
+
+## Introducing our team members.
+- https://team.sunsin.shop/team/turtle
 
 ### Connecting
 - PRD - https://team.sunsin.shop, https://sunsin-shop.github.io
