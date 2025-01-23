@@ -35,7 +35,7 @@ jobs:
         run: npm install
       - name: Build Docs
         run: npm run docs:build
-      - name: CP Files
+      - name: CP Files docs
         run: sh cp-files.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
