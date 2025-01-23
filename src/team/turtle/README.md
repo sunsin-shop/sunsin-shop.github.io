@@ -12,23 +12,7 @@
 ### Code of Conduct
 ::: tip 새로운 분에게 배울 자세가 되어 있는 TEAM SUNSIN.SHOP
 
-1. 행동강령(CoC) 위원회 작업 중 ...
-1. 참조 : 파이콘 행동 강령(https://2023.pycon.kr/coc/purpose)
-1. 우리는 함께 성장합니다.
-1. 모르는 것은 죄가 아니다. 모르는 것을 감추는 순간 큰 장애로 되돌아 온다.
-1. 프로젝트는 실패해도 팀은 남는다.
-1. 테스트 할 수 없는 것은 만들 수 없다.
-1. 애자일 선언 이면의 원칙 - 우리의 최우선 순위는, 가치 있는 소프트웨어를
-일찍 그리고 지속적으로 전달해서 고객을 만족시키는 것이다, 작동하는 소프트웨어를 자주 전달하라 등등 ... - 을 위해 우리는 개발 극 초기에 PR 을 생성한다.
-
-![우분투](https://mblogthumb-phinf.pstatic.net/MjAxOTA1MjRfMjQz/MDAxNTU4NjkxMTkxMTAy.rThPBG-QesuHIURRtTcepgEKHXgvWtHKBwYqMScZiNog.UAOrIQbI44pw5GhYJ3pD7EzymcP6aKd-5uyaNKCqJMsg.PNG.yozguy/%EC%9A%B0%EB%B6%84%ED%88%AC3.png?type=w420)
-:::
-
-::: tip
-- 입사 확정 시 PR 부탁드립니다. 자연 스럽게 코드리뷰 & 자기소개 시간 -> 첫날 환영 뒷풀이 GOGO!
-- 또는 타이거팀 합류 희망 시 [contribute guide](https://github.com/oss-cashmallow/oss-cashmallow.github.io#contribute-guide) 를 참고하여 PR 보내주세요. 어흥~ 모시러 가겠습니다.
-- 또는 [인재 영입](team/recruit/)
-![](https://user-images.githubusercontent.com/120996497/209473626-12d63987-9357-4f0a-94a9-35392d4f8869.png)
+- [Team Sunsin CoC](https://github.com/ppabam/101?tab=readme-ov-file#%ED%96%89%EB%8F%99%EA%B0%95%EB%A0%B9)
 :::
 
 ### Heejin
