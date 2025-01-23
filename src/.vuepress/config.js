@@ -98,7 +98,7 @@ export default defineUserConfig({
           text: "team",
           collapsible: true,
           children: [
-            "/team/tiger/",
+            "/team/turtle/",
             "/team/recruit/",
             "/team/how2pr/",
             "/team/tiger2agile/",
