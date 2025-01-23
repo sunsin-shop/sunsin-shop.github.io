@@ -16,7 +16,7 @@ export default defineUserConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'team-blog:sunsin.shop' }],
     ['meta', { property: 'og:description', content: "We are a professional team that works affectionately, and above all, grows with our colleagues." }],
-    ['meta', { property: 'og:image', content: 'https://sunsin-shop.github.io/repository-open-graph-sunsin.png' }],
+    ['meta', { property: 'og:image', content: 'https://sunsin-shop.github.io/images/repository-open-graph-sunsin.png' }],
     ['meta', { property: 'og:url', content: 'https://sunsin-shop.github.io' }],
   ],
   
