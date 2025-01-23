@@ -30,15 +30,29 @@
 - 또는 [인재 영입](team/recruit/)
 ![](https://user-images.githubusercontent.com/120996497/209473626-12d63987-9357-4f0a-94a9-35392d4f8869.png)
 :::
-::: details Nijin <Badge type="warning" text="student" vertical="top" />
--  im 희진 ..
--  im learning about data a lot 
+
+### Heejin
+::: details Nijin <Badge type="warning" text="Data" vertical="top" />
+-  Im 희진 
+-  Im learning about data a lot
+-  데이터 엔지니어가 되..
 -  help me plz..plz..plz..
--  감사합니당  
+
+- [🍕vercel ](https://age.journeyjean.shop/)
+- [🍔pypi ](https://pypi.org/project/hj-check-os-version/)
+- [🍟blog ](https://heejin131.github.io/)
+
 ![Nijin](/images/tiger-slamdunk/me2.png)
+```
+🍀 
+```
 :::
 
+### nunininu
 ::: details nunininu(조성근) <Badge type="tip" text="Data" vertical="top" />
+- [Github](https://github.com/nunininu)
+- [Notion](https://www.notion.so/c17b6022a6a94633ae42c2d2c16f12c5)
+
 - 열심히 배우고 있습니다. 
 - 통계분석 경력이 있습니다.
 - 코딩을 잘하고 싶습니다.
@@ -85,10 +99,13 @@ Node.js
 ```
 :::
 
-::: details Alex <Badge type="warning" text="backend" vertical="top" />
-- 스포츠 즐겨보고 그중에서도 야구와 농구를 좋아합니다.
-- 데이터 분석과 시각화를 잘 배워서  프로젝트까지 잘 완성하고 싶습니다.
-- 매번 제가 질문할 때마다 옆에서 잘 알려주시는 분들 감사합니다ㅎㅎ
+### wminhyuk
+::: details wminhyuk(서민혁) <Badge type="warning" text="Data" vertical="top" />
+- 대학때는 기계공학 전공했었고, 이전에 Python을 취미로 잠깐 다뤘습니다.
+- 스포츠를 즐겨보고 그중에서도 야구와 농구를 좋아합니다.
+- 데이터 분석과 시각화를 열심히 배워서 프로젝트까지 잘 완성하고 싶습니다.
+- 매번 제가 질문할 때마다 옆에서 알려주시는 분들 감사합니다ㅎㅎ
+- https://github.com/wminhyuk, https://www.notion.so/LG-U-Why-Not-SW-Camp-162c6e72ac1d809cb499f9a92dd4881a(초대 필요)
 
 ![Alex](/images/tiger-slamdunk/keyping_600.png)
 ```
@@ -96,10 +113,15 @@ Python
 ```
 :::
 
+### lucas
 ::: details lucas <Badge type="tip" text="노량진" vertical="top" /> 
 - Data analyst(I want to become one, but I don't know anything yet).
 - Please give me a lot of help.
 - If you help me, I'll be blessed!
+- [Instargram   🅾  ](https://www.instagram.com/b.h.gyun/profilecard/?igsh=MWVsbWJ2ejYxdmRzbw==)
+- [Github 💻](https://github.com/lucas-hub12)
+- [Blog 🖊️📖✏📚](https://lucas-hub12.github.io/)
+- [Pypi 🙊🙈🙉](https://pypi.org/project/lucas-check-os-ver/)
 
 ![lucas.2](/images/003.png)
 ```
@@ -126,13 +148,15 @@ Swift, Python
 ```
 :::
 
+### Jacob
 ::: details Jacob <Badge type="tip" text="LG U+4기 " vertical="top" /> <Badge type="warning" text="NEWBIE" vertical="top" /> <Badge type="tip" text="찾아가는중" vertical="top" /> <Badge type="tip" text="Data Engineer?" vertical="top" />
 - 최근 경력이라면.. 용산 미군기지 안에 있는  GNC 보충제 샵에서 매장운영 및 발주 등 전반적인 일을 했었습니다.
 - 취미는 게임입니다 총 쏘는 게임 좋아합니다 Call of Duty 멀티 주로 하고 있어요.
 - 아직 직무나 분야를 정하지는 못했어요 매일 새로워서 배우다 보면 더 집중적으로 배우고 싶은게 생길거라 생각하고 있습니다.
 - 아무것도 모르고 헤매고 있을 때 도와주셔서 감사해요!!
-- 더 준비하고 공부해서 나아지는 모습 보여드릴게요.
 - 부족하지만 따라가려고 노력하고 있습니다 잘 부탁드립니다!
+- [Jacob's Github](https://github.com/Jacob-53)
+- [Blog](https://jacob-53.github.io/) 업데이트 예정입니다.
 
 ![Jacob](/images/tiger-slamdunk/woohoo.png)
 ```
