@@ -3,7 +3,7 @@
   
 ![image](https://github.com/user-attachments/assets/6bb733db-b567-4664-9d52-1e7c4d939106)
 
-## Introducing our team members.
+## ✨ Introducing our team members.
 - https://team.sunsin.shop/team/turtle
 
 ### Connecting
@@ -12,7 +12,7 @@
 - DEV - ?
 - LOCAL - http://localhost:8000
 
-### Contribute guide
+### 🔌 Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
 
 0. created based on [vuepress](https://v2.vuepress.vuejs.org/)
@@ -36,7 +36,7 @@ $ pnpm install
 $ pnpm docs:dev
 ```
 
-### build & deploy
+### 🪂 build & deploy
 1. STG
 - [x] 배포전 작업 파일은 모두 커밋!
 - [install firebase](https://v2.vuepress.vuejs.org/guide/deployment.html#google-firebase)
