@@ -9,7 +9,7 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: '팀순신샵 거북이즈',
+  title: 'TURTLES@sunsin.shop',
   description: "느리것 처럼 보이는 단단한 기술력을 갖고 있는. 팀순신샵 기술블로그에서 실력과 센스를 겸비한 신입 개발자 엔지니어를 만나 보세요.",
 
   head: [
@@ -82,7 +82,9 @@ export default defineUserConfig({
 
     navbar: [
       { text: "101", link: "https://github.com/ppabam/101/issues" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "resumes", link: "/team/turtle/" },
+      { text: "portfolios", link: "/turtles/portfolios/" },
+      { text: "🎧ྀི♪⋆.✮♬.ᐟ", link: "https://vim.sunsin.shop/?query=%ED%94%8C%EB%A6%AC&sort=shuffle" },
     ],
 
     sidebar: {
